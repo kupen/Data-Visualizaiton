@@ -1,5 +1,5 @@
 # Data-Visualizaiton
-<B>Problem</B>
+<B>Problem Description</B>
 
 COVID-19 infection not only physically affected individuals and societies, but also psychologically. Cases of suicide, which is one of the bad consequences of mental distress, increase during such periods. In this study, it will be examined whether the Covid-19 process has an effect on the number of suicides.
 
