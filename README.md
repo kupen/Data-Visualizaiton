@@ -10,3 +10,6 @@ In my project, I used the datasets available on the "Statista" and "Office for N
 The most difficult part of my project was finding the data set. Actually, what I wanted was the data of Turkey, but there was no data set in this sense, and I started to research on the same subject on the basis of the country and I saw that the Englands has such a data set. In the beginning, I only had suicide cases in the Englands, but I continued my research because I also needed the current number of Covid-19 cases. At this stage, the problem you faced was this; The number of virus-related cases was shared on a United Kingdom basis, but I only needed the Englands's regional number of cases for a healthy comparison. I was able to access this information via the "Statisca" website. Although I had various problems during the visualization phase of the data, I was able to solve these problems by rearranging the data set.<br />
 
 You can access the whole assignment in the "Report" file in the "Documents" folder.
+
+**Open the link below to access the video of the presentation;**
+[Video Presentation](https://drive.google.com/file/d/1tMAB7F-0I0zm8bQEJzvE6eD3fIhs1F9G/view?usp=sharing)
