@@ -11,5 +11,5 @@ The most difficult part of my project was finding the data set. Actually, what I
 
 You can access the whole assignment in the "Report" file in the "Documents" folder.
 
-**Open the link below to access the video of the presentation;**
+**Open the link to access the video of the presentation; **
 [Video Presentation](https://drive.google.com/file/d/1tMAB7F-0I0zm8bQEJzvE6eD3fIhs1F9G/view?usp=sharing)
